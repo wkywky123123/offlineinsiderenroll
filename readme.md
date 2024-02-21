@@ -1,3 +1,5 @@
+English/[简体中文](https://github.com/wkywky123123/offlineinsiderenroll/blob/cec4a424c5782cdb8a6c5125d997e1cf4c3495ae/readme_zh_cn.md).
+
 # OfflineInsiderEnroll
 
 ![Screenshot of OfflineInsiderEnroll](https://i.imgur.com/8HGi1w8.png)
