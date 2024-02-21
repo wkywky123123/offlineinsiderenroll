@@ -33,7 +33,7 @@ for /f "tokens=6 delims=[]. " %%i in ('ver') do set build=%%i
 
 if %build% LSS 17763 (
     echo =============================================================
-    echo The script is compatible only with Windows 10 v1809 and later
+    echo 猫猫必须运行在Windows10 v1809或更高版本的系统上喵~
     echo =============================================================
     echo.
     pause
