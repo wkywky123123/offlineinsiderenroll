@@ -33,7 +33,7 @@ for /f "tokens=6 delims=[]. " %%i in ('ver') do set build=%%i
 
 if %build% LSS 17763 (
     echo =============================================================
-    echo 猫猫只能在Windows 10版本1809及更高版本上运行的喵~
+    echo 猫猫只能在Windows 10版本1809及更高版本上运行的喵
     echo =============================================================
     echo.
     pause
@@ -44,7 +44,7 @@ reg query HKU\S-1-5-19 1>nul 2>nul
 if %ERRORLEVEL% equ 0 goto :START_SCRIPT
 
 echo =====================================================
-echo 运行本猫猫需要管理员权限的喵~
+echo 运行本猫猫需要管理员权限的喵
 echo =====================================================
 echo.
 pause
@@ -60,7 +60,7 @@ cls
 title OfflineInsiderEnroll v%scriptver%
 set "choice="
 echo.
-echo 请选择主人要进行的操作喵~
+echo 请选择主人要进行的操作喵
 echo 0 - 加入Canary Channel（金丝雀频道）
 echo 1 - 加入Dev Channel
 echo 2 - 加入Beta Channel
@@ -211,33 +211,33 @@ del /f /q "%SystemRoot%\oie.reg"
 goto :EOF
 
 :ENROLL
-echo 正在应用修改...喵~
+echo 正在应用修改...喵
 call :RESET_INSIDER_CONFIG 1>NUL 2>NUL
 call :ADD_INSIDER_CONFIG 1>NUL 2>NUL
 bcdedit /set {current} flightsigning yes >nul 2>&1
-echo 完成了喵~
+echo 完成了喵
 
 echo.
 if %FlightSigningEnabled% neq 1 goto :ASK_FOR_REBOOT
-echo 按任意键退出就好了喵~
+echo 按任意键退出就好了喵
 pause >nul
 goto :EOF
 
 :STOP_INSIDER
-echo 正在应用修改...喵~
+echo 正在应用修改...喵
 call :RESET_INSIDER_CONFIG 1>nul 2>nul
 bcdedit /deletevalue {current} flightsigning >nul 2>&1
-echo 完成了喵~
+echo 完成了喵
 
 echo.
 if %FlightSigningEnabled% neq 0 goto :ASK_FOR_REBOOT
-echo 按任意键退出就好了喵~
+echo 按任意键退出就好了喵
 pause >nul
 goto :EOF
 
 :ASK_FOR_REBOOT
 set "choice="
-echo 需要重启才能生效喵~
+echo 需要重启才能生效喵
 set /p choice="主人要不要重启您的电脑喵? (y/N) "
 if /I "%choice%"=="y" shutdown -r -t 0
 goto :EOF
