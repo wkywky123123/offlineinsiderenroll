@@ -60,15 +60,15 @@ cls
 title OfflineInsiderEnroll v%scriptver%
 set "choice="
 echo.
-echo 0 - Canary Channel
-echo 1 - Dev Channel
-echo 2 - Beta Channel
-echo 3 - Release Preview Channel
+echo 0 - 加入Canary频道（金丝雀）
+echo 1 - 加入Dev频道
+echo 2 - 加入Beta频道
+echo 3 - 加入Release频道
 echo.
-echo 4 - Stop receiving Windows Insider builds
-echo 5 - Quit without making any changes
+echo 4 - 退出所有已经加入的频道
+echo 5 - 不做任何操作并关掉猫猫
 echo.
-set /p choice="Choice: "
+set /p choice="请主人选择要进行的操作喵~: "
 echo.
 if /I "%choice%"=="0" goto :ENROLL_CAN
 if /I "%choice%"=="1" goto :ENROLL_DEV
@@ -237,6 +237,6 @@ goto :EOF
 :ASK_FOR_REBOOT
 set "choice="
 echo A reboot is required to finish applying changes.
-set /p choice="Would you like to reboot your PC? (y/N) "
+set /p choice="主人需要猫猫重启您的电脑喵？ (y/N) "
 if /I "%choice%"=="y" shutdown -r -t 0
 goto :EOF
