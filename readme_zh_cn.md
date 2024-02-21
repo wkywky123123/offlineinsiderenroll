@@ -1,3 +1,5 @@
+[English](https://github.com/wkywky123123/offlineinsiderenroll/blob/master/readme.md)/简体中文
+
 # 离线注册预览猫猫
 
 ![离线注册预览猫猫截图](https://github.com/wkywky123123/offlineinsiderenroll/assets/89382167/2e36384b-822e-4ade-a942-2aa2a6617f28)
