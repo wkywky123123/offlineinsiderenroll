@@ -44,7 +44,7 @@ reg query HKU\S-1-5-19 1>nul 2>nul
 if %ERRORLEVEL% equ 0 goto :START_SCRIPT
 
 echo =====================================================
-echo This script needs to be executed as an administrator.
+echo 主人要给猫猫管理员权限的喵~
 echo =====================================================
 echo.
 pause
