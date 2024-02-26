@@ -9,6 +9,8 @@ to the Windows Insider Program on machines not signed in with Microsoft Account.
 
 This script is compatible only with Windows 11 or Windows 10 version 1809 and later.
 
+* Chinese (Simplified) fork: [简体中文](https://github.com/wkywky123123/offlineinsiderenroll)
+
 ## Usage
 
 This script requires administrative priviliges to run. You can simply execute it
