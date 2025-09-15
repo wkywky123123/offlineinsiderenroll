@@ -2,7 +2,8 @@
 
 # 离线预览注册猫猫
 
-![Screenshot of OfflineInsiderEnroll](https://i.imgur.com/8HGi1w8.png)
+<img width="1222" height="638" alt="image" src="https://github.com/user-attachments/assets/64c64c18-b39c-4de1-af71-f502aa181f08" />
+
 
 ## 关于猫猫
 
