@@ -1,6 +1,6 @@
 简体中文/[English]((https://github.com/abbodi1406/offlineinsiderenroll)).
 
-# 离线预览注册猫猫
+# 离线预览注册猫猫（全是私货版汉化）
 
 <img width="1222" height="638" alt="image" src="https://github.com/user-attachments/assets/64c64c18-b39c-4de1-af71-f502aa181f08" />
 
