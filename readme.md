@@ -1,3 +1,5 @@
+English/[简体中文](https://github.com/wkywky123123/offlineinsiderenroll/blob/master/readme_zh_cn.md).
+
 # OfflineInsiderEnroll
 
 ![Screenshot of OfflineInsiderEnroll](https://i.imgur.com/8HGi1w8.png)
@@ -8,9 +10,6 @@ OfflineInsiderEnroll is a simple Windows Command Prompt script to enable access
 to the Windows Insider Program on machines not signed in with Microsoft Account.
 
 This script is compatible only with Windows 11 or Windows 10 version 1809 and later.
-
-* Updated Chinese (Simplified) fork: [简体中文](https://github.com/apoint123/offlineinsiderenroll)
-* Chinese (Simplified) fork: [简体中文](https://github.com/wkywky123123/offlineinsiderenroll)
 
 ## Usage
 
