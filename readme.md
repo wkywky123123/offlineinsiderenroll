@@ -1,16 +1,14 @@
 English/[简体中文](https://github.com/wkywky123123/offlineinsiderenroll/blob/master/readme_zh_cn.md).
 
-# OfflineInsiderEnroll
+# 离线预览注册猫猫
 
 ![Screenshot of OfflineInsiderEnroll](https://i.imgur.com/8HGi1w8.png)
 
-## Description
+## 关于猫猫
 
-OfflineInsiderEnroll is a simple Windows Command Prompt script to enable access
-to the Windows Insider Program on machines not signed in with Microsoft Account.
+离线注册预览猫猫是一个简单的Windows命令提示符脚本，用于给没有登录Microsoft账号或不满足预览体验计划硬件要求要求的用户加入Windows的预览体验计划。
 
-This script is compatible only with Windows 11 or Windows 10 version 1809 and later.
-
+猫猫仅兼容Windows11或Windows10版本1809及更高版本。
 * Updated Chinese (Simplified) fork: [简体中文](https://github.com/apoint123/offlineinsiderenroll)
 * Chinese (Simplified) fork: [简体中文](https://github.com/wkywky123123/offlineinsiderenroll)（就是本仓库！）
 
