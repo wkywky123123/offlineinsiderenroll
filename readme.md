@@ -1,4 +1,4 @@
-English/[简体中文](https://github.com/wkywky123123/offlineinsiderenroll/blob/master/readme_zh_cn.md).
+简体中文/[English]((https://github.com/abbodi1406/offlineinsiderenroll)).
 
 # 离线预览注册猫猫
 
