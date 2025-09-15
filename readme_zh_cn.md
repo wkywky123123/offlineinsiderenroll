@@ -1,6 +1,7 @@
 [English](https://github.com/wkywky123123/offlineinsiderenroll/blob/master/readme.md)/简体中文
 
 # 离线注册预览猫猫 
+目前此汉化版非最新版，但仓库中的英文版为最新版，我会在接下来的时间内更新最新版的汉化
 
 ![离线注册预览猫猫截图](https://github.com/wkywky123123/offlineinsiderenroll/assets/89382167/2e36384b-822e-4ade-a942-2aa2a6617f28)
 
