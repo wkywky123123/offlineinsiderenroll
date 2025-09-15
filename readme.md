@@ -1,4 +1,4 @@
-简体中文/[English]((https://github.com/abbodi1406/offlineinsiderenroll)).
+本项目汉化自[offlineinsiderenroll](https://github.com/abbodi1406/offlineinsiderenroll)
 
 # 离线预览注册猫猫（全是私货版汉化）
 
