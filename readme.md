@@ -11,7 +11,7 @@
 
 猫猫仅兼容Windows11或Windows10版本1809及更高版本。
 * Updated Chinese (Simplified) fork: [简体中文](https://github.com/apoint123/offlineinsiderenroll)
-* Chinese (Simplified) fork: [简体中文](https://github.com/wkywky123123/offlineinsiderenroll)（就是本仓库！）
+* Chinese (Simplified) fork: [简体中文](https://github.com/wkywky123123/offlineinsiderenroll)（这个是本仓库！）
 
 ## 食用方法
 
