@@ -10,8 +10,8 @@
 离线注册预览猫猫是一个简单的Windows命令提示符脚本，用于给没有登录Microsoft账号或不满足预览体验计划硬件要求要求的用户加入Windows的预览体验计划。
 
 猫猫仅兼容Windows11或Windows10版本1809及更高版本。
-* Updated Chinese (Simplified) fork: [简体中文](https://github.com/apoint123/offlineinsiderenroll)
-* Chinese (Simplified) fork: [简体中文](https://github.com/wkywky123123/offlineinsiderenroll)（这个仓库！）
+* Chinese (Simplified) fork - 本项目汉化自: [简体中文](https://github.com/wkywky123123/offlineinsiderenroll)（咱是这个~）
+* Chinese (Simplified) fork: [简体中文](https://github.com/apoint123/offlineinsiderenroll)
 
 ## 食用方法
 
